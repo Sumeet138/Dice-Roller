@@ -10,8 +10,8 @@
 
 ## 🔧 Prerequisites
 To run this project, you need the following tools and dependencies installed:
-- Flutter SDK (version X.X.X or higher)
-- Dart SDK (version X.X.X or higher)
+- Flutter SDK 
+- Dart SDK 
 - Android Studio or Xcode for mobile development (for Android/iOS)
 - Git for version control
 
